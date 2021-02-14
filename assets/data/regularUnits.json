@@ -1,0 +1,237 @@
+{
+    "Length": [
+        {
+            "name": "Meter",
+            "conversion": 1.0,
+            "base_unit": true
+        },
+        {
+            "name": "Milimeter",
+            "conversion": 1000.0,
+            "base_unit": true
+        },
+        {
+            "name": "Centimeter",
+            "conversion": 100.0,
+            "base_unit": true
+        },
+        {
+            "name": "Kilometer",
+            "conversion": 0.001
+        },
+        {
+            "name": "Inch",
+            "conversion": 39.3701
+        },
+        {
+            "name": "Foot",
+            "conversion": 3.28084
+        },
+        {
+            "name": "Yard",
+            "conversion": 3.28084
+        },
+        {
+            "name": "Mile",
+            "conversion": 0.00621371
+        }
+    ],
+    "Area": [
+        {
+            "name": "Meter Squared",
+            "conversion": 1.0,
+            "base_unit": true
+        },
+        {
+            "name": "Kilometer Squared",
+            "conversion": 0.00001
+        },
+        {
+            "name": "Square Inch",
+            "conversion": 1550.0
+        },
+        {
+            "name": "Square Foot",
+            "conversion": 10.7639
+        },
+        {
+            "name": "Square Yard",
+            "conversion": 1.19599
+        },
+        {
+            "name": "Acre",
+            "conversion": 0.000247105
+        },
+        {
+            "name": "Hectare",
+            "conversion": 0.0001
+        }
+    ],
+    "Volume": [
+        {
+            "name": "Cubic Meter",
+            "conversion": 1.0,
+            "base_unit": true
+        },
+        {
+            "name": "US Legal Cup",
+            "conversion": 4166.67
+        },
+        {
+            "name": "US Fluid Ounce",
+            "conversion": 33814.0
+        },
+        {
+            "name": "US Tablespoon",
+            "conversion": 67628.0
+        },
+        {
+            "name": "US Teaspoon",
+            "conversion": 202884.0
+        },
+        {
+            "name": "Imperial Cup",
+            "conversion": 3519.51
+        },
+        {
+            "name": "Imperial Fluud Ounce",
+            "conversion": 35195.1
+        },
+        {
+            "name": "Imperial Tablespoon",
+            "conversion": 56312.13673
+        },
+        {
+            "name": "Imperial Teaspoon",
+            "conversion": 168936.41019
+        }
+    ],
+    "Mass": [
+        {
+            "name": "Kilogram",
+            "conversion": 1.0,
+            "base_unit": true
+        },
+        {
+            "name": "Gram",
+            "conversion": 1000.0
+        },
+        {
+            "name": "Ounce",
+            "conversion": 35.274
+        },
+        {
+            "name": "Pound",
+            "conversion": 2.20462
+        },
+        {
+            "name": "Stone",
+            "conversion": 0.157473
+        },
+        {
+            "name": "US Ton",
+            "conversion": 0.00110231
+        },
+        {
+            "name": "Metric Ton",
+            "conversion": 0.001
+        }
+    ],
+    "Time": [
+        {
+            "name": "Second",
+            "conversion": 1.0,
+            "base_unit": true
+        },
+        {
+            "name": "Millisecond",
+            "conversion": 1000.0
+        },
+        {
+            "name": "Minute",
+            "conversion": 0.01666666666667
+        },
+        {
+            "name": "Hour",
+            "conversion": 0.00027777777778
+        },
+        {
+            "name": "Day",
+            "conversion": 0.00001157407407
+        },
+        {
+            "name": "Week",
+            "conversion": 0.000001653439153
+        },
+        {
+            "name": "Forthnight",
+            "conversion": 0.000000826719576
+        }
+    ],
+    "Digital Storage": [
+        {
+            "name": "Megabyte",
+            "conversion": 1.0,
+            "base_unit": true
+        },
+        {
+            "name": "Megabit",
+            "conversion": 8.0
+        },
+        {
+            "name": "Mebibyte",
+            "conversion": 0.953674
+        },
+        {
+            "name": "Byte",
+            "conversion": 1000000.0
+        },
+        {
+            "name": "Kilobyte",
+            "conversion": 1000.0
+        },
+        {
+            "name": "Gigabyte",
+            "conversion": 0.001
+        },
+        {
+            "name": "Terabyte",
+            "conversion": 0.000001
+        },
+        {
+            "name": "Petabyte",
+            "conversion": 0.000000001
+        }
+    ],
+    "Energy": [
+        {
+            "name": "Joule",
+            "conversion": 1.0,
+            "base_unit": true
+        },
+        {
+            "name": "Kilojoule",
+            "conversion": 0.001
+        },
+        {
+            "name": "Gram Joule",
+            "conversion": 0.239006
+        },
+        {
+            "name": "Kilocalorie (Calorie)",
+            "conversion": 0.000239006
+        },
+        {
+            "name": "Watt Hour",
+            "conversion": 0.0002777778
+        },
+        {
+            "name": "British Thermal Unit",
+            "conversion": 0.000947817
+        },
+        {
+            "name": "US Therm",
+            "conversion": 0.00000004804
+        }
+    ]
+}
